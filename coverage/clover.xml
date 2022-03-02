@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1646314523082" clover="3.2.0">
+  <project timestamp="1646314523082" name="All files">
+    <metrics statements="60" coveredstatements="60" conditionals="12" coveredconditionals="10" methods="22" coveredmethods="22" elements="94" coveredelements="92" complexity="0" loc="60" ncloc="60" packages="1" files="8" classes="8"/>
+    <file name="AddMealBtn.js" path="/home/amaimon/work/blog_work/codepill-prototype/articles/10/tdd_react_native_workshop/AddMealBtn.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="5" count="26" type="stmt"/>
+      <line num="7" count="26" type="stmt"/>
+      <line num="16" count="7" type="stmt"/>
+    </file>
+    <file name="App.js" path="/home/amaimon/work/blog_work/codepill-prototype/articles/10/tdd_react_native_workshop/App.js">
+      <metrics statements="30" coveredstatements="30" conditionals="6" coveredconditionals="6" methods="11" coveredmethods="11"/>
+      <line num="17" count="43" type="stmt"/>
+      <line num="18" count="38" type="stmt"/>
+      <line num="19" count="38" type="stmt"/>
+      <line num="20" count="38" type="stmt"/>
+      <line num="21" count="38" type="stmt"/>
+      <line num="24" count="38" type="stmt"/>
+      <line num="25" count="4" type="stmt"/>
+      <line num="26" count="4" type="stmt"/>
+      <line num="27" count="4" type="stmt"/>
+      <line num="29" count="4" type="stmt"/>
+      <line num="32" count="38" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="37" count="38" type="stmt"/>
+      <line num="38" count="4" type="stmt"/>
+      <line num="41" count="38" type="stmt"/>
+      <line num="42" count="4" type="stmt"/>
+      <line num="45" count="38" type="stmt"/>
+      <line num="46" count="7" type="stmt"/>
+      <line num="49" count="38" type="stmt"/>
+      <line num="50" count="4" type="stmt"/>
+      <line num="54" count="4" type="stmt"/>
+      <line num="55" count="4" type="stmt"/>
+      <line num="57" count="4" type="stmt"/>
+      <line num="58" count="4" type="stmt"/>
+      <line num="59" count="4" type="stmt"/>
+      <line num="62" count="38" type="stmt"/>
+      <line num="69" count="4" type="stmt"/>
+      <line num="75" count="3" type="stmt"/>
+      <line num="89" count="7" type="stmt"/>
+    </file>
+    <file name="ClearButton.js" path="/home/amaimon/work/blog_work/codepill-prototype/articles/10/tdd_react_native_workshop/ClearButton.js">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="5" count="12" type="stmt"/>
+      <line num="19" count="7" type="stmt"/>
+      <line num="23" count="7" type="stmt"/>
+    </file>
+    <file name="MealCaloriesInput.js" path="/home/amaimon/work/blog_work/codepill-prototype/articles/10/tdd_react_native_workshop/MealCaloriesInput.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="7" count="35" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="20" count="7" type="stmt"/>
+    </file>
+    <file name="MealCaloriesTotal.js" path="/home/amaimon/work/blog_work/codepill-prototype/articles/10/tdd_react_native_workshop/MealCaloriesTotal.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="5" count="35" type="stmt"/>
+      <line num="17" count="7" type="stmt"/>
+    </file>
+    <file name="MealTextInput.js" path="/home/amaimon/work/blog_work/codepill-prototype/articles/10/tdd_react_native_workshop/MealTextInput.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="7" count="36" type="stmt"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="20" count="7" type="stmt"/>
+    </file>
+    <file name="MealsList.js" path="/home/amaimon/work/blog_work/codepill-prototype/articles/10/tdd_react_native_workshop/MealsList.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="32" count="7" type="stmt"/>
+    </file>
+    <file name="testUtils.js" path="/home/amaimon/work/blog_work/codepill-prototype/articles/10/tdd_react_native_workshop/testUtils.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="7" type="stmt"/>
+      <line num="10" count="7" type="stmt"/>
+      <line num="11" count="15" type="stmt"/>
+      <line num="20" count="7" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
